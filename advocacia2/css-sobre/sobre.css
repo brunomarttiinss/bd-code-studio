@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #eaeaea;
+    background-color: #121212;
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+    h1{
+        color: #c0a060;
+        text-align: center;
+    }
+    .escritorio1{   
+  
+        margin-left: 22%;
+        margin-top: 7%;
+        
+    }
+    .titu1{
+       color: #c0a060;
+       position: absolute;
+       top: 15%;
+       margin-left: 29%; 
+    }
+.historia1{
+    max-width: 66%;
+    margin-left: 3%;
+
+    }
